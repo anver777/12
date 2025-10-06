@@ -97,7 +97,7 @@ export const menuItems = [
     { id: 'sup6', name: 'Чакапули из баранины', description: '300 гр / 450 р', price: 450, category: 'supy' },
 
     { id: 'gar1', name: 'Картофель по-деревенски', description: '200 гр / 280 р', price: 280, category: 'garniry' },
-    { id: 'gar2', name: 'Картофель пюре', description: '200 гр / 280 р', price: 280, category: 'garniry' },
+    { id: 'gar2', name: 'Картофель по-домашнему', description: '200 гр / 280 р', price: 280, category: 'garniry' },
     { id: 'gar3', name: 'Картофель отварной', description: '200 гр / 220 р', price: 220, category: 'garniry' },
     { id: 'gar4', name: 'Фри', description: '200 гр / 270 р', price: 270, category: 'garniry' },
     { id: 'gar5', name: 'Картофель с грибами', description: '300 гр / 340 р', price: 340, category: 'garniry' },
